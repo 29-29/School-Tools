@@ -1,0 +1,10 @@
+* {
+	font-family: "Century Gothic";
+}
+a {
+	text-decoration: none;
+	color: crimson;
+}
+a:hover {
+	font-weight: bold;
+}
