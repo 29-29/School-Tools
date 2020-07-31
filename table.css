@@ -1,10 +1,20 @@
-table,
-tr,
-th,
 td {
-	border-collapse: collapse;
+	padding: 10px 5px 10px 5px;
+	border-right: 1px dashed black;
 }
 th,
-td {
+td:last-child {
+	border-right: none;
+}
+th {
 	padding: 10px;
+	border-bottom: 10px solid black;
+}
+tr:nth-child(even) td {
+	background-color: #aaaaaa;
+}
+tr td:first-child {
+	background-color: white;
+	padding-right: 10px;
+	padding-left: 10px;
 }
