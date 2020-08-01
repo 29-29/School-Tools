@@ -1,0 +1,62 @@
+[
+	{
+		"subject": "Language Proficiency",
+		"teacher": "Mrs. Nancy Barrot",
+		"time": "1:00 - 1:50",
+		"sunday": true,
+		"monday": false,
+		"tuesday": true,
+		"wednesday": false,
+		"thursday": true
+	},
+	{
+		"subject": "Mathematics",
+		"teacher": "Mrs. Thelma Ilas",
+		"time": "2:00 - 2:50",
+		"sunday": true,
+		"monday": false,
+		"tuesday": true,
+		"wednesday": false,
+		"thursday": true
+	},
+	{
+		"subject": "Science",
+		"teacher": "Ms. Shaima Majid",
+		"time": "3:00 - 3:50",
+		"sunday": true,
+		"monday": false,
+		"tuesday": true,
+		"wednesday": false,
+		"thursday": true
+	},
+	{
+		"subject": "Reading Comprehension",
+		"teacher": "Mrs. Mary Jane Soriano",
+		"time": "1:00 - 1:50",
+		"sunday": false,
+		"monday": true,
+		"tuesday": false,
+		"wednesday": true,
+		"thursday": false
+	},
+	{
+		"subject": "Numerical Ability",
+		"teacher": "Mr. Herbert Vargas",
+		"time": "2:00 - 2:50",
+		"sunday": false,
+		"monday": true,
+		"tuesday": false,
+		"wednesday": true,
+		"thursday": false
+	},
+	{
+		"subject": "Physics & Chemistry",
+		"teacher": "Mr. Randolph Tiongzon",
+		"time": "3:00 - 3:50",
+		"sunday": false,
+		"monday": true,
+		"tuesday": false,
+		"wednesday": true,
+		"thursday": false
+	}
+]
