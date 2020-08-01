@@ -1,0 +1,31 @@
+table {
+	table-layout: auto;
+	font-size: small;
+	position: absolute;
+	align-self: center;
+}
+td {
+	padding: 5px;
+	text-align: center;
+	padding: 10;
+	border: 1px solid chartreuse;
+	border-top: 1px dashed chartreuse;
+	border-bottom: 1px dashed chartreuse;
+}
+tr:nth-child(2) td {
+	border-top: 1px solid chartreuse;
+	border-bottom: none;
+}
+tr:last-child td {
+	border-top: none;
+	border-bottom: 1px solid chartreuse;
+}
+th {
+	background-color: chartreuse;
+	color: black;
+	padding: 10 0 10 0;
+	font-size: large;
+}
+table {
+	border-collapse: collapse;
+}
